@@ -1,24 +1,18 @@
-aid: central-intelligence-agency
+aid: defense-security-cooperation-agency
 url: >-
-  https://raw.githubusercontent.com/api-evangelist/central-intelligence-agency/refs/heads/main/apis.yml
+  https://raw.githubusercontent.com/api-evangelist/defense-security-cooperation-agency/refs/heads/main/apis.yml
 apis:
-  - aid: central-intelligence-agency:central-intelligence-agency
-    name: Central Intelligence Agency
+  - aid: defense-security-cooperation-agency:defense-security-cooperation-agency
+    name: Defense Security Cooperation Agency
     tags:
       - API
-    humanURL: >-
-      https://www.odni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni...
+    humanURL: https://www.dsca.mil
     properties:
-      - url: >-
-          https://www.odni.gov/index.php/newsroom/press-releases/press-releases-2024/3784-odni...
+      - url: https://www.dsca.mil
         type: Documentation
     description: >-
-      ODNI and CIA Release the Intelligence Community OSINT Strategy for
-      2024-2026 . WASHINGTON, D.C. – The Office of the Director of National
-      Intelligence (ODNI) and the Central Intelligence Agency (CIA) today
-      released the Intelligence Community (IC) Open Source Intelligence (OSINT)
-      Strategy for 2024-2026.
-name: Central Intelligence Agency
+      The Defense Counterintelligence and Security Agency (DCSA) is responsible for protecting the security of the United States government by providing a variety of services.
+name: Defense Security Cooperation Agency
 tags:
   - API
 type: Index
@@ -28,10 +22,7 @@ created: '2024-12-03'
 modified: '2024-12-03'
 position: Consumer
 description: >-
-  ODNI and CIA Release the Intelligence Community OSINT Strategy for 2024-2026 .
-  WASHINGTON, D.C. – The Office of the Director of National Intelligence (ODNI)
-  and the Central Intelligence Agency (CIA) today released the Intelligence
-  Community (IC) Open Source Intelligence (OSINT) Strategy for 2024-2026.
+  The Defense Counterintelligence and Security Agency (DCSA) is responsible for protecting the security of the United States government by providing a variety of services.
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
