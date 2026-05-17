@@ -17,7 +17,7 @@ url: https://raw.githubusercontent.com/api-evangelist/defense-security-cooperati
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 specificationVersion: '0.19'
-xType: government
+kind: government
 access: 3rd-Party
 position: Consuming
 tags:
