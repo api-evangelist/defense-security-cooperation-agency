@@ -91,6 +91,8 @@ apis:
       - type: Documentation
         url: https://www.dscu.edu
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/defense-security-cooperation-agency
   - type: Website
     url: https://www.dsca.mil
   - type: News
