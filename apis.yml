@@ -15,7 +15,19 @@ description: >-
   the Security Cooperation Information Portal (SCIP).
 url: https://raw.githubusercontent.com/api-evangelist/defense-security-cooperation-agency/refs/heads/main/apis.yml
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/defense-security-cooperation-agency.png
 specificationVersion: '0.19'
 kind: government
 access: 3rd-Party
@@ -29,7 +41,7 @@ tags:
   - International
   - Security Cooperation
 created: '2024-12-03'
-modified: '2026-04-28'
+modified: '2026-07-25'
 apis:
   - aid: defense-security-cooperation-agency:defense-security-cooperation-agency-website
     name: DSCA Website
@@ -75,21 +87,6 @@ apis:
     properties:
       - type: Documentation
         url: https://www.dsca.mil/policy/dsca-policy-systems/security-cooperation-information-portal-scip
-  - aid: defense-security-cooperation-agency:defense-security-cooperation-agency-workforce
-    name: DSCA Security Cooperation Workforce Development
-    description: >-
-      DSCA portal supporting Security Cooperation Workforce certification,
-      training, and the Defense Security Cooperation University (DSCU).
-      Public information is available on the website with authenticated
-      systems for enrolled professionals.
-    humanURL: https://www.dscu.edu
-    tags:
-      - Certification
-      - Training
-      - Workforce
-    properties:
-      - type: Documentation
-        url: https://www.dscu.edu
 common:
   - type: DomainSecurity
     url: security/defense-security-cooperation-agency-domain-security.yml
@@ -107,6 +104,8 @@ common:
     url: https://www.dsca.mil/privacy-and-security-policy
   - type: FOIA
     url: https://open.defense.gov/Transparency/FOIA.aspx
+  - type: ProductPage
+    url: https://www.dscu.edu
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

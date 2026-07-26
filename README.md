@@ -40,11 +40,6 @@ Government-to-government portal that hosts case management, financial, and logis
 
 - **Human URL:** https://www.dsca.mil/policy/dsca-policy-systems/security-cooperation-information-portal-scip
 
-### DSCA Security Cooperation Workforce Development
-
-DSCA portal supporting Security Cooperation Workforce certification, training, and the Defense Security Cooperation University (DSCU).
-
-- **Human URL:** https://www.dscu.edu
 
 ## Common Properties
 
