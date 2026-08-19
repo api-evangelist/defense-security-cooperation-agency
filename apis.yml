@@ -28,7 +28,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/defense-security-cooperation-agency.png
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 kind: government
 access: 3rd-Party
 position: Consuming
