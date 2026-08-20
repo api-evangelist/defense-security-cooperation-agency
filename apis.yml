@@ -36,6 +36,14 @@ tags:
   - Defense
   - Department of Defense
   - DSCA
+  - Federal-Government
+  - Foreign Military Sales
+  - International
+  - Security Cooperation
+tags_raw:
+  - Defense
+  - Department of Defense
+  - DSCA
   - Federal Government
   - Foreign Military Sales
   - International
@@ -52,6 +60,9 @@ apis:
       but does not expose a developer API.
     humanURL: https://www.dsca.mil
     tags:
+      - Federal-Government
+      - Website
+    tags_raw:
       - Federal Government
       - Website
     properties:
@@ -66,6 +77,10 @@ apis:
       web pages and PDFs without a documented API.
     humanURL: https://www.dsca.mil/press-media/major-arms-sales
     tags:
+      - Arms Sales
+      - FMS
+      - Notification
+    tags_raw:
       - Arms Sales
       - FMS
       - Notifications
