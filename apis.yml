@@ -15,6 +15,17 @@ description: >-
   the Security Cooperation Information Portal (SCIP).
 url: https://raw.githubusercontent.com/api-evangelist/defense-security-cooperation-agency/refs/heads/main/apis.yml
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
