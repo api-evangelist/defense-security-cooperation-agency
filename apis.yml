@@ -14,6 +14,8 @@ description: >-
   interact through controlled, government-to-government channels such as
   the Security Cooperation Information Portal (SCIP).
 url: https://raw.githubusercontent.com/api-evangelist/defense-security-cooperation-agency/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 type: Index
 deliveryModel:
   model: unknown
