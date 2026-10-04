@@ -49,7 +49,7 @@ tags:
   - Defense
   - Department of Defense
   - DSCA
-  - Federal-Government
+  - Federal Government
   - Foreign Military Sales
   - International
   - Security Cooperation
@@ -61,6 +61,7 @@ tags_raw:
   - Foreign Military Sales
   - International
   - Security Cooperation
+  - Federal-Government
 created: '2024-12-03'
 modified: '2026-07-25'
 apis:
@@ -73,11 +74,12 @@ apis:
       but does not expose a developer API.
     humanURL: https://www.dsca.mil
     tags:
-      - Federal-Government
+      - Federal Government
       - Websites
     tags_raw:
       - Federal Government
       - Website
+      - Federal-Government
     properties:
       - type: Documentation
         url: https://www.dsca.mil
