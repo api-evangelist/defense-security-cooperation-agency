@@ -118,6 +118,12 @@ apis:
       - type: Documentation
         url: https://www.dsca.mil/policy/dsca-policy-systems/security-cooperation-information-portal-scip
 common:
+  - type: Plans
+    url: plans/defense-security-cooperation-agency-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/defense-security-cooperation-agency-rate-limits.yml
+  - type: FinOps
+    url: finops/defense-security-cooperation-agency-finops.yml
   - type: DomainSecurity
     url: security/defense-security-cooperation-agency-domain-security.yml
   - type: LinkedIn
