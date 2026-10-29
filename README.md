@@ -1,4 +1,4 @@
-# Defense Security Cooperation Agency (defense-security-cooperation-agency)
+# Defense Security Cooperation Agency
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,54 +66,102 @@
 
 The Defense Security Cooperation Agency (DSCA) is the U.S. Department of Defense agency that leads, directs, and manages security cooperation programs and resources to support U.S. policy and interests with foreign partners. DSCA administers the Foreign Military Sales (FMS) program, Foreign Military Financing (FMF) execution, International Military Education and Training (IMET), and humanitarian assistance programs. Public-facing surfaces include the Major Arms Sales notifications published in cooperation with Congress, the DSCA newsroom and library, and the Security Cooperation Workforce certification portal. DSCA does not publish a general-purpose developer API; partner-nation systems interact through controlled, government-to-government channels such as the Security Cooperation Information Portal (SCIP).
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/defense-security-cooperation-agency/refs/heads/main/apis.yml)
+**Areas:** Defense · Department of Defense · DSCA · Federal Government · Foreign Military Sales · International · Security Cooperation
 
-## Scope
+## Defense Security Cooperation Agency on APIs.io
 
-- **Type:** Index
-- **x-type:** government
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Defense Security Cooperation Agency is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/defense-security-cooperation-agency/](https://apis.io/providers/defense-security-cooperation-agency/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (3)
 
-- Defense, Department of Defense, DSCA, Federal Government, Foreign Military Sales, International, Security Cooperation
+- [DSCA Website](https://apis.io/apis/defense-security-cooperation-agency/defense-security-cooperation-agency-website/) — Public-facing website of the Defense Security Cooperation Agency that describes its mission, leadership, programs, and partners. The site links to news, the…
+- [DSCA Major Arms Sales Notifications](https://apis.io/apis/defense-security-cooperation-agency/defense-security-cooperation-agency-major-arms-sales/) — DSCA publishes Major Arms Sales notifications and supporting transmittal documents that Congress and the public use to track potential Foreign Military…
+- [Security Cooperation Information Portal (SCIP)](https://apis.io/apis/defense-security-cooperation-agency/defense-security-cooperation-agency-scip/) — Government-to-government portal that hosts case management, financial, and logistical information for security cooperation partners. SCIP requires…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### DSCA Website
+Authentication, trust centre, and vulnerability disclosure.
 
-Public-facing website of the Defense Security Cooperation Agency that describes its mission, leadership, programs, and partners.
+- [Defense Security Cooperation Agency Domain Security](https://apis.io/security/defense-security-cooperation-agency/defense-security-cooperation-agency-domain-security/)
 
-- **Human URL:** https://www.dsca.mil
+#### Plans and pricing (1)
 
-### DSCA Major Arms Sales Notifications
+Published plans, tiers and prices.
 
-DSCA publishes Major Arms Sales notifications and supporting transmittal documents that Congress and the public use to track potential Foreign Military Sales cases.
+- [Defense Security Cooperation Agency Plans Pricing](https://apis.io/plans/defense-security-cooperation-agency/defense-security-cooperation-agency-plans-pricing/)
 
-- **Human URL:** https://www.dsca.mil/press-media/major-arms-sales
+#### Rate limits (1)
 
-### Security Cooperation Information Portal (SCIP)
+Published request limits.
 
-Government-to-government portal that hosts case management, financial, and logistical information for security cooperation partners.
+- [Defense Security Cooperation Agency Rate Limits](https://apis.io/rate-limits/defense-security-cooperation-agency/defense-security-cooperation-agency-rate-limits/)
 
-- **Human URL:** https://www.dsca.mil/policy/dsca-policy-systems/security-cooperation-information-portal-scip
+#### FinOps (1)
 
+What the API costs to run, by operation.
 
-## Common Properties
+- [Defense Security Cooperation Agency Finops](https://apis.io/finops/defense-security-cooperation-agency/defense-security-cooperation-agency-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.dsca.mil)
-- [News](https://www.dsca.mil/press-media/news-articles)
-- [Library](https://www.dsca.mil/security-cooperation-library)
-- [Contact Us](https://www.dsca.mil/contact)
-- [Privacy Policy](https://www.dsca.mil/privacy-and-security-policy)
-- [FOIA](https://open.defense.gov/Transparency/FOIA.aspx)
+- [Privacy policy](https://www.dsca.mil/privacy-and-security-policy)
 
-## Maintainers
+## API Evangelist rating
 
-- **Kin Lane** - kin@apievangelist.com
+**Kin Score 12.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 63.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 9.5 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Government & Public Sector
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/defense-security-cooperation-agency/](https://apis.io/providers/defense-security-cooperation-agency/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Defense Security Cooperation Agency: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/defense-security-cooperation-agency/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
